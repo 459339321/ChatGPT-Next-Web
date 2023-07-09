@@ -121,6 +121,7 @@ export function SideBar(props: { className?: string }) {
         </div>
         <div className={styles["sidebar-sub-title"]}>
           你的智能人工助手.
+          <div class="home_sidebar-sub-title__IS2Or"><div>公益至死不渝（除非破产）</div><div><a href="http://blog.xin-hao.top" target="_blank">逝与逢博客</a>：开源是种美德，知识值得共享</div><div><a href="https://idc.haosh.fun" target="_blank">豪逝云</a>：稳定安全的云服务器</div></div>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
