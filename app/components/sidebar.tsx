@@ -120,7 +120,7 @@ export function SideBar(props: { className?: string }) {
           一起玩-ChatGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-<a href="http://yiqiwan.cc" target="_blank">个人主页</a>：公益密码-微信：459339321</div><div><a href="https://idc.yiqiwan.cc" target="_blank">青云</a>
+<a href="http://yiqiwan.cc" target="_blank">个人主页</a>：公益密码-微信：459339321</div><div><a href="https://idc.yiqiwan.cc" target="_blank">青云</a>稳定安全的云服务器
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
